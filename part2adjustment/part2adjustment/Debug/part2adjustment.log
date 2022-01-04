@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\visual studio project\part2adjustment\part2adjustment\Source.cpp(96,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  part2adjustment.vcxproj -> D:\visual studio project\part2adjustment\Debug\part2adjustment.exe
